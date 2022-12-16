@@ -22,10 +22,9 @@ function Footer() {
             <h3 className='text-2xl text-primary-50'>Quick Links</h3>
             <div className="flex flex-col items-start justify-center md:flex-row md:gap-4">
                 <a href="#home" className='text-primary-50 underline'>Home</a>
-                <a href="#about" className='text-primary-50 underline'>About</a>
-                <a href="#menu" className='text-primary-50 underline'>Menu</a>
+                <a href="#order" className='text-primary-50 underline'>Order</a>
                 <a href="#featured" className='text-primary-50 underline'>Featured</a>
-                <a href="#contact" className='text-primary-50 underline'>Contact</a>
+                <a href="#about" className='text-primary-50 underline'>About</a>
             </div>
         </div>
     </div>

@@ -40,7 +40,7 @@ const founders = [
     },
     {
         id: 8,
-        name: 'Sheila Mae Pagkalinawa',
+        name: 'Sheila Mae Pagkalinawan',
         sex: 'female',
     }
 ];

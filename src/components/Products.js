@@ -7,7 +7,7 @@ function Products() {
 
   return (
     <div id="order" className='w-full h-auto mt-8 flex flex-col justify-center items-center gap-4 overflow-x-hidden'>
-        <div>
+        <div className='p-8'>
             <h1 className='text-4xl font-bold text-primary-500 lowercase text-center'>Our lovely products</h1>
             <p className='text-primary-500 text-center lowercase'>Our tasty and sweet cookiesh is available in various forms.</p>
         </div>
